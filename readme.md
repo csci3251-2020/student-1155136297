@@ -6,7 +6,7 @@ Hi, I am Hsu Ting Wei.I am a year1 student.It is <strong>amazing</strong> that I
 <h1>Course in this semester</h1>
 
  Code    | Name                                      | Credits
-........:|:..........................................|........
+.........|...........................................|........
 ENGG1130 |Multivariable Calvulus for Engineers       |3       
 ENGG1120 |Linear Algebra for Engineers               |3       
 PHED1041 |Badminton(Men)                             |1       
