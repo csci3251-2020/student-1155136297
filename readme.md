@@ -1,4 +1,4 @@
-<h1>Developer Information <h1>
+<h1>Developer Information </h1>
 Hi, I am Hsu Ting Wei.I am a year1 student.It is <strong>amazing</strong> that I could select this class.
 <h1>Programming background<h1>
 - C++
