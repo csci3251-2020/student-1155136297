@@ -28,5 +28,5 @@ CSCI2100 |Data Sturctures                            |3
 
 <h1>The Screenshot</h1>
 
-![] (https://github.com/csci3251-2020/student-1155136297/blob/master/Screenshot%20(12).png)
+![](https://github.com/csci3251-2020/student-1155136297/blob/master/Screenshot%20(12).png)
 
