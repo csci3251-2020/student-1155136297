@@ -5,15 +5,15 @@ Hi, I am Hsu Ting Wei.I am a year1 student.It is <strong>amazing</strong> that I
 - Python(still learning)
 <h1>Course in this semester</h1>
 
-| Code    | Name                                      | Credits|
-|.........|:.........................................:|.......:|
-|ENGG1130 |Multivariable Calvulus for Engineers       |3       |
-|ENGG1120 |Linear Algebra for Engineers               |3       |
-|PHED1041 |Badminton(Men)                             |1       |
-|UGFN1000 |In Dialogue with Nature                    |3       |
-|CSCI3251 |Engineering Practicum                      |1       |
-|ELTU1001 |Foundational English for University Studies|4       |
-|CSCI2100 |Data Sturctures                            |3       |
+ Code    | Name                                      | Credits
+........:|:..........................................|:......:
+ENGG1130 |Multivariable Calvulus for Engineers       |3       
+ENGG1120 |Linear Algebra for Engineers               |3       
+PHED1041 |Badminton(Men)                             |1       
+UGFN1000 |In Dialogue with Nature                    |3       
+CSCI3251 |Engineering Practicum                      |1       
+ELTU1001 |Foundational English for University Studies|4       
+CSCI2100 |Data Sturctures                            |3       
 
 <h1>The things I want to PF</h1>
 
